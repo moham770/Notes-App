@@ -1,0 +1,15 @@
+.footer{
+    background-color: #eee;
+    margin: 0;
+    padding: 5px 0 ;
+}
+.header{
+    background-color:var(--main-color);
+}
+
+.title{
+    white-space: nowrap;
+
+text-overflow: ellipsis;
+overflow: auto;
+}
